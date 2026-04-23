@@ -293,10 +293,9 @@ If you find this repository useful, please consider citing:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
-Contributions are welcome! If you know of a paper, dataset, or competition that belongs here, please open a pull request.
-If you find it usefull please ⭐, THANKS!
+Contributions are welcome! If you know of a paper, dataset, or competition that belongs here, please Contribute and If you find it useful please ⭐, THANKS!
 ---
 
 
