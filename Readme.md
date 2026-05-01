@@ -51,7 +51,7 @@
 
 ## ⚽ Soccer / Football
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -66,7 +66,7 @@
 | 2021 | SoccerNet-v2: Holistic Understanding of Broadcast Soccer Videos | [Paper](https://arxiv.org/abs/2011.13367) | [Code](https://github.com/SilvioGiancola/SoccerNetv2-DevKit) |
 | 2018 | SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos | [Paper](https://arxiv.org/abs/1804.04527) | [Code](https://github.com/SilvioGiancola/SoccerNet-code) |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **SoccerNet** (2018): 500 games · 764h · broadcast video + event labels. [Official](https://www.soccer-net.org/)
 - **SoccerNet-v2** (2021): 500 games · >5M frames · spotting + replay grounding. [Official](https://silviogiancola.github.io/SoccerNetv2/)
@@ -74,7 +74,7 @@
 - **Wyscout Event Dataset** (2019): 7 competitions · spatio-temporal event logs. [Official](https://figshare.com/collections/Soccer_match_event_dataset/4415000)
  
 
-### Challenges & Competitions
+**Challenges ### Challenges & Competitions Competitions**
 
 - **SoccerNet Challenges** (2021-2026): Action spotting, tracking, re-id, GSR, calibration, captioning. [Official](https://www.soccer-net.org/challenges)
 
@@ -82,7 +82,7 @@
 
 ## 🏀 Basketball
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -93,14 +93,14 @@
 | 2021 | Multi-Modal Trajectory Prediction of NBA Players | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Hauri_Multi-Modal_Trajectory_Prediction_of_NBA_Players_WACV_2021_paper.pdf) | - |
 | 2019 | DeepHoops: Evaluating Micro-Actions in Basketball Using Deep Feature Representations | [Paper](https://dl.acm.org/doi/10.1145/3292500.3330719) | - |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **BASKET** (2025): 4,477h · 32,232 players · 20 fine-grained skills. [Official](https://sites.google.com/cs.unc.edu/basket)
 - **APIDIS** (—): ~2h · 7 viewpoints · multi-view basketball. [Official](https://ispgroup.gitlab.io/code/apidis/)
 - **DeepSport Basketball-Instants** (2022): 300+ images · ball/player/court annotations. [Official](https://www.kaggle.com/datasets/gabrielvanzandycke/deepsport-dataset)
  
 
-### Challenges & Competitions
+**Challenges ### Challenges & Competitions Competitions**
  
 - **March Machine Learning Mania** (2014-2026): NCAA tournament prediction. [Official](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
 
@@ -108,7 +108,7 @@
 
 ## 🏈 American Football
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -117,7 +117,7 @@
 | 2020 | Expected Hypothetical Completion Probability | [Paper](https://arxiv.org/abs/1910.12337) | [Code](https://github.com/skdeshpande91/ehcp) |
 | 2019 | DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making | [Paper](https://www.sloansportsconference.com/research-papers/deepqb-deep-learning-with-player-tracking-to-quantify-quarterback-decision-making-performance) | - |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
  
 - **nflverse / nflreadr** (—): Open NFL data ecosystem. [Official](https://www.nflverse.com)
 
@@ -128,7 +128,7 @@
 
 ## ⚾ Baseball
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -137,7 +137,7 @@
 | 2024 | PitcherNet: Powering the Moneyball Evolution in Baseball Video Analytics | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Bright_PitcherNet_Powering_the_Moneyball_Evolution_in_Baseball_Video_Analytics_CVPRW_2024_paper.pdf) | - |
 | 2018 | Fine-Grained Activity Recognition in Baseball Videos | [Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w34/Piergiovanni_Fine-Grained_Activity_Recognition_CVPR_2018_paper.pdf) | [Code](https://github.com/piergiaj/mlb-youtube) |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **Lahman Database** (2025): Historical MLB stats from 1871-2025. [Official](https://sabr.org/lahman-database/)
 
@@ -147,7 +147,7 @@
 
 ## 🏏 Cricket
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -158,7 +158,7 @@
 | 2023 | STAN: Spatial-Temporal Awareness Network for Cricket Action Detection | [Paper](https://dl.acm.org/doi/10.1145/3606038.3616169) | - |
 | 2023 | Building Scalable Video Understanding Benchmarks through Sports Commentary Alignment | [Paper](https://arxiv.org/abs/2301.06866) | [Code](https://github.com/asap-benchmark/asap-pipeline) |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **Cricsheet** (—): 21,528 matches · ball-by-ball structured data. [Official](https://cricsheet.org/)
 - **cricketdata** (2025): R access package for Cricsheet + Cricinfo. [Official](https://pkg.robjhyndman.com/cricketdata/)
@@ -167,7 +167,7 @@
 
 ## 🎾 Tennis
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -180,7 +180,7 @@
 
 ## 🏒 Hockey
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -191,7 +191,7 @@
 | 2021 | Automatic Play Segmentation of Hockey Videos | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Pidaparthy_Automatic_Play_Segmentation_of_Hockey_Videos_CVPRW_2021_paper.pdf) | - |
 | 2021 | Puck Localization and Multi-Task Event Recognition in Broadcast Hockey Videos | [Paper](https://arxiv.org/abs/2105.10563) | - |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **MHPTD** (—): 25 clips · 82,305 frames · hockey tracking. [Official](https://github.com/grant81/hockeyTrackingDataset)
 - **VIP-HTD** (2024): 22 clips · MOT hockey benchmark. [Official](https://github.com/harshap-ai/VIP-HTD)
@@ -200,7 +200,7 @@
 
 ## 🏸 Badminton / Racket Sports
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -211,7 +211,7 @@
 | 2022 | MonoTrack: Shuttle Trajectory Reconstruction from Monocular Badminton Video | [Paper](https://arxiv.org/abs/2204.01899) | [Code](https://github.com/jhwang7628/monotrack) |
 | 2021 | Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches | [Paper](https://arxiv.org/abs/2109.06431) | [Code](https://github.com/yao0510/Shot-Influence) |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **ShuttleSet** (2023): 104 sets · 36,492 strokes. [Official](https://arxiv.org/abs/2306.04948)
 - **ShuttleSet22** (2024): Extended stroke forecasting benchmark. [Official](https://arxiv.org/html/2306.15664v3)
@@ -222,7 +222,7 @@
 
 ## 🤾 Hammer Throw
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -234,7 +234,7 @@
 
 ## 🌐 Multi-Sports
 
-### Papers
+**Papers**
 
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
@@ -244,7 +244,7 @@
 | 2023 | Widely Applicable Strong Baseline for Sports Ball Detection and Tracking | [Paper](https://papers.bmvc2023.org/0310.pdf) | [Code](https://github.com/nttcom/WASB-SBDT) |
 | 2023 | SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Cui_SportsMOT_A_Large_Multi-Object_Tracking_Dataset_in_Multiple_Sports_Scenes_ICCV_2023_paper.html) | [Code](https://github.com/MCG-NJU/SportsMOT) |
 
-### Datasets & Benchmarks
+**Datasets ### Datasets & Benchmarks Benchmarks**
 
 - **Sports-1M** (2014): 1,133,158 videos · 487 sports labels. [Official](https://github.com/gtoderici/sports-1m-dataset)
 - **MultiSports** (2021): ~3,200 clips · 37,701 actions · 902k boxes. [Official](https://deeperaction.github.io/datasets/multisports.html)
