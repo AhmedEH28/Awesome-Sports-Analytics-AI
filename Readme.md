@@ -1,23 +1,47 @@
 # Awesome AI × Sports Analytics
 
-> A curated collection of **AI / ML / Computer Vision for sports analytics resources**: papers, datasets, github codes, benchmarks, competitions, Conferences and workshops. This README is a selective collection of high-quality resources for sports analytics AI from 2018 through 2026+ across soccer, basketball, American football, baseball, cricket, tennis, hockey, badminton, hammer throw, and multi-sport settings.
+> A curated collection of **AI / ML / Computer Vision for sports analytics resources**: papers, datasets, github codes, benchmarks, competitions, Conferences and workshops. This README is a selective collection of high-quality resources for sports analytics AI from 2018 through 2026+ across soccer, basketball, American football, baseball, cricket, tennis, hockey, badminton, hammer throw, and multi-sport settings. 
 >
+> Check the Readme or here https://ahmedeh28.github.io/Awesome-Sports-Analytics-AI/
 ---
 
 ## 📋 Contents
 
-- [⚽ Soccer / Football](#-soccer--football)
-- [🏀 Basketball](#-basketball)
-- [🏈 American Football](#-american-football)
-- [⚾ Baseball](#-baseball)
-- [🏏 Cricket](#-cricket)
-- [🎾 Tennis](#-tennis)
-- [🏒 Hockey](#-hockey)
-- [🏸 Badminton / Racket Sports](#-badminton--racket-sports)
-- [🤾 Hammer Throw](#-hammer-throw)
-- [🌐 Multi-Sports](#-multi-sports)
-- [🎓 Research Venues & Conferences](#-research-venues--conferences)
-- [📖 Citation](#-citation)
+- [Awesome AI × Sports Analytics](#awesome-ai--sports-analytics)
+  - [📋 Contents](#-contents)
+  - [⚽ Soccer / Football](#-soccer--football)
+    - [Papers](#papers)
+    - [Datasets \& Benchmarks](#datasets--benchmarks)
+    - [Challenges \& Competitions](#challenges--competitions)
+  - [🏀 Basketball](#-basketball)
+    - [Papers](#papers-1)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-1)
+    - [Challenges \& Competitions](#challenges--competitions-1)
+  - [🏈 American Football](#-american-football)
+    - [Papers](#papers-2)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-2)
+  - [⚾ Baseball](#-baseball)
+    - [Papers](#papers-3)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-3)
+  - [🏏 Cricket](#-cricket)
+    - [Papers](#papers-4)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-4)
+  - [🎾 Tennis](#-tennis)
+    - [Papers](#papers-5)
+  - [🏒 Hockey](#-hockey)
+    - [Papers](#papers-6)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-5)
+  - [🏸 Badminton / Racket Sports](#-badminton--racket-sports)
+    - [Papers](#papers-7)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-6)
+  - [🤾 Hammer Throw](#-hammer-throw)
+    - [Papers](#papers-8)
+  - [🌐 Multi-Sports](#-multi-sports)
+    - [Papers](#papers-9)
+    - [Datasets \& Benchmarks](#datasets--benchmarks-7)
+  - [🎓 Research Venues \& Conferences](#-research-venues--conferences)
+  - [📖 Citation](#-citation)
+  - [🤝 Contributing](#-contributing)
 
 ---
 
@@ -73,7 +97,6 @@
  
 
 ### Challenges & Competitions
-
  
 - **March Machine Learning Mania** (2014-2026): NCAA tournament prediction. [Official](https://www.kaggle.com/competitions/march-machine-learning-mania-2026)
 
@@ -91,11 +114,9 @@
 | 2019 | DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making | [Paper](https://www.sloansportsconference.com/research-papers/deepqb-deep-learning-with-player-tracking-to-quantify-quarterback-decision-making-performance) | - |
 
 ### Datasets & Benchmarks
-
  
 - **nflverse / nflreadr** (—): Open NFL data ecosystem. [Official](https://www.nflverse.com)
 
-### Challenges & Competitions
 
  
 
@@ -114,10 +135,7 @@
 
 ### Datasets & Benchmarks
 
- 
 - **Lahman Database** (2025): Historical MLB stats from 1871-2025. [Official](https://sabr.org/lahman-database/)
-
-### Challenges & Competitions
 
  
 
@@ -150,11 +168,11 @@
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
 | 2025 | Where Is The Ball: 3D Ball Trajectory Estimation From 2D Monocular Tracking | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/papers/Ponglertnapakorn_Where_Is_The_Ball_3D_Ball_Trajectory_Estimation_From_2D_CVPRW_2025_paper.pdf) | - |
-| 2023 | Learning Physically Simulated Tennis Skills from Broadcast Videos (Vid2Player3D) | - | - |
+| 2023 | Learning Physically Simulated Tennis Skills from Broadcast Videos (Vid2Player3D) | [Paper](https://dl.acm.org/doi/10.1145/3592408) | [Code](https://github.com/nv-tlabs/vid2player3d ) |
 | 2021 | Monocular Visual Analysis for Electronic Line Calling of Tennis | [Paper](https://arxiv.org/pdf/2107.09255) | - |
-| 2019 | TrackNet: A Deep Learning Network for Tracking High-speed and Tiny Objects in Sports | - | - |
+| 2019 | TrackNet: A Deep Learning Network for Tracking High-speed and Tiny Objects in Sports | [Paper](https://arxiv.org/abs/1907.03698) | [Code](https://github.com/ArtLabss/tennis-tracking) |
 
----
+---    
 
 ## 🏒 Hockey
 
@@ -194,8 +212,6 @@
 - **ShuttleSet** (2023): 104 sets · 36,492 strokes. [Official](https://arxiv.org/abs/2306.04948)
 - **ShuttleSet22** (2024): Extended stroke forecasting benchmark. [Official](https://arxiv.org/html/2306.15664v3)
 
-### Challenges & Competitions
-
 
 
 ---
@@ -207,8 +223,6 @@
 | Year | Title | Paper | Code |
 |------|-------|-------|------|
 | 2026 | Hammer Throw Distance Estimation Using Deep Learning and Physics-Based Modeling | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417426009358) | [Code](https://github.com/AhmedEH28/Hammer-Throw-Distance-Estimation) |
-
-### Datasets & Benchmarks
 
 
 
@@ -241,13 +255,12 @@
 |-------|-------------|------|
 | **CVSports @ CVPR** | Main computer vision in sports workshop | [Official](https://vap.aau.dk/cvsports/11th-international-workshop-on-computer-vision-in-sports-cvsports-at-cvpr-2025/) |
 | **ACM MMSports** | Multimedia analysis in sports workshop | [Official](http://mmsports.multimedia-computing.de/mmsports2026/index.html) |
-| **Machine Learning and Data Mining for Sports Analytics (MLSA)** | Sports analytics workshop focused on machine learning and data mining | [Official](https://mlsa-workshop.github.io/) |
 | **MIT Sloan Sports Analytics Conference** | Broad sports analytics venue | [Official](https://www.sloansportsconference.com/conference/2026-conference) |
 | **Carnegie Mellon Sports Analytics Conference** | Academic sports analytics conference | [Official](https://www.cmsaconference.com/) |
-| 
-| **SABR Analytics Conference** | Baseball analytics conference | [Official](https://sabr.org/analytics/) |
 | **ASA Virtual Sports Analytics Conference** | Sports data science conference | [Official](https://instats.org/seminar/asa-sports-analytics-conference) |
-| 
+| **LISS Football Analytics Symposium** | Football analytics symposium | [Official](https://www.kuleuven.be/liss/events/liss-football-analytics-symposium) |
+| **Vision and Sports** | ISVA annual conference in sports | [Official](https://isva.org/) |
+| **icSPORTS** | Conference in sports | [Official](https://icsports.scitevents.org/) |
 
 ---
 
@@ -269,7 +282,7 @@ If you find this repository useful, please consider citing:
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of a paper, dataset, or competition that belongs here, please open a pull request.
+Contributions are welcome! If you know of a paper, dataset, or competition that belongs here, please feel free to contribute, Thanks!.
 
 ---
 
