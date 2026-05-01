@@ -1,13 +1,17 @@
-# Awesome AI × Sports Analytics
+# Awesome AI Sports Analytics
 
 > A curated collection of **AI / ML / Computer Vision for sports analytics resources**: papers, datasets, github codes, benchmarks, competitions, Conferences and workshops. This README is a selective collection of high-quality resources for sports analytics AI from 2018 through 2026+ across soccer, basketball, American football, baseball, cricket, tennis, hockey, badminton, hammer throw, and multi-sport settings. 
 >
-> Check the Readme or here https://ahmedeh28.github.io/Awesome-Sports-Analytics-AI/
+>
+> > 🚀 **Live Website Available!**
+> 
+> View the interactive version here: [**Awesome AI Sports Analytics Website**](https://ahmedeh28.github.io/Awesome-Sports-Analytics-AI/)
+> 
 ---
 
 ## 📋 Contents
 
-- [Awesome AI × Sports Analytics](#awesome-ai--sports-analytics)
+- [Awesome AI Sports Analytics](#awesome-ai-sports-analytics)
   - [📋 Contents](#-contents)
   - [⚽ Soccer / Football](#-soccer--football)
     - [Papers](#papers)
